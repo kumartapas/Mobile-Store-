@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mobile-Store-
 
 Maven setup (ignore if already setup):
@@ -34,3 +35,6 @@ This is tapas here
 this is the login commet
 
 
+=======
+this is the git add file in this field you can add login information
+>>>>>>> login
